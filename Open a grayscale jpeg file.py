@@ -2,7 +2,7 @@
 import os
 cwd = os.getcwd()
 cwd
-#change directory to the folder where image is located
+#change directory to the folder where jpeg image "test" is located. This could be any image you have saved in the directory location.
 os.chdir('C:/Users/Desktop/OpenCV')
 #import packages cv2, numpy and matplotlib
 import cv2
